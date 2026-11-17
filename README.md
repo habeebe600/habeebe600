@@ -1,4 +1,4 @@
-##About Me
+## About Me
 
 I'm a passionate Full Stack Developer and Blockchain enthusiast who enjoys building scalable, efficient, and innovative digital solutions.
 
@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer and Blockchain enthusiast who enjoys build
 - Interested in Firewalls, Network Infrastructure, and Cloud Protection
 - Always building, learning, and innovating.
 
-###Current Focus
+### Current Focus
 
 - Full Stack Development
 - Blockchain & Web3
